@@ -1,0 +1,220 @@
+>I am recording this so i can look at it later and gauge the steps
+I am NOT gonna remember all that vro. Also these notes are in chronological order of discovery/action \
+-chi
+
+>WARN: chromadb takes a long time to dl in python. Could be due to CPU usage on my pc 
+but I should keep this in mind. Maybe I could switch to pineconedb if chroma doesnt
+work out fast enough
+
+INFO: I need test documents for the jawn. I will simulate the scraper by just making some
+bum ahh fastapi thing that returns some json data with random text we will plug into db
+
+INFO: I feel bad for whoever is making the scraper that shit will be hard. Also if you are 
+the one making the scraper and youre watching this, Keep in mind rate limiting.
+
+>WARN: I just realized if we try to give ppl access to a scraper mid workship we WILL get 
+rate limited cuz theyre gonna think its a ddos. We might have to setup a fake api to simulate
+the scraper outside the tests and actually for the workshop
+
+INFO: Im gonna be looking at the chromadb quickstart cuz i dont know the syntax offhand
+
+JOKE: if you know syntax for random libraries you use occasionaly offhand, okay alan turing i see you :D
+
+INFO: In the chromadb quickstart i dont see anything about linking model providers. Usually we would have to link the model to the vdb so it actually converts text to embeddings and stores them. Im gonna test this out cuz it doesnt make much sense to me.
+
+INFO: Just realizing we also need to setup document chunking. I might hae to use huggingface and get a tokenizer so we can split documents by chunks. I could also just use sth like a langchain recursive text splitter. But idk if yall are okay with using multiple agent libraries.
+
+INFO: Im switching to jupyter notebooks before i setup the code. Its easier for me this way so reruns dont take as long
+
+INFO: I think chroma manually installed some models to default to to help w embedding. And the vdb stuff is stored in a directory called '.cache' in my root directory. I want to move it to the project dir so ppl can see whats going on
+
+INFO: Ok. the quickstart misled me. There is chroma.Client(), which is apparently not persistent, and chroma.PersistentClient(), which actually stores the data to a path. We will be switching to that.
+
+INFO: created a tmp folder cuz i saw the ai recommend it as autocomplete and i dont see the problem with it. How do i turn the ai autocomplete off? it pisses me off sometimes
+
+INFO: okay i just rerant the client. It creates an sql db. Im gonna look into how these things are actually stored and indexed later but not rn cuz im tryna set this up as quickly as possible
+
+INFO: That was quick. I just ran the query and it seems pretty chill. Idk if im gonna go into implementing reranking, since we would need anotehr model for that, but we should definitely talk about it in the workshop since we are facing stuff from an enterpriswe standpoint
+
+INFO: Im gonna test w/ larger docs now. Ima just gpt some docs and plug them into some fastapi endpoint we can access
+
+INFO: Before i do this i will check the embeddings thing. I need to figure out how to set my own embedding model
+
+INFO: the create_collection() method lets me set an embedding function. Im going to try and link a gemini model and see if i can get one rolling 
+
+>WARN: If you watch this and steal my api key, i will be mad at you, so dont do that.
+
+INFO: Looking at the gemini api quickstart rn so i can get sth rolling.
+
+INFO: It looks like chroma has a specific class for embedding functions called EmbeddingFunction. Im gonna look into that
+
+INFO: Good news, chroma has abstracted the embedding function for gemini. Bad news is idk the install
+
+>WARN: im just noticing the embedding function references google.generativeai instead of google. I might be cooked here if this deprecated
+
+>WARN: Im cooked. The gemini embedding function depends on sth that was deprecated [here](https://pypi.org/project/google-generativeai/)
+
+>WARN: Im not writing a whole new embedding function tbh. Im just gonna use the deprecated legacy stuff. 
+
+INFO: Thankfully i found a more recent implementation that has a custom gemini embedding class. I will use that and reference the repo in this notebook
+
+INFO: I forgot the client in the embedding function was meant to be the gemini client and not the chromadb one. i just fixed that so my bad
+
+INFO: Im deleting  the collection with chromadb. for some reason i couldnt delete it manually. apparently the resource was locked. Im guessing by the jupyter notebook, but im not sure cuz idk how that would work.
+
+INFO: Anyways we now have a collection that makes use of our gemini embeddings, which is good.
+
+INFO: Ok, so apparently sth is wrong w the id's now. I will have to go back to the repo i got the embedding function from and check it out
+
+INFO: This is unironlically pissing me off cuz i get an error for inconsistent number of ids. how
+??? they are the same number of elements.
+
+INFO: Encapsulating in a for loop fixes the issue. Im assuming this is a bug w the embedding function but im lowk not gonna tweak it cuz idrc
+
+INFO: Text search still seems to work but im a little confused on why the embeddings value is currently none in the returned dict. ima reset the whole notebook and run it again
+
+INFO: I did and it stayed the same. Im gonna leave this as is cuz idrc. we will now move onto creating sth to simulate the scraper or an api call
+
+INFO: Actually nevermind. Ill just read txt docs in the test_docs folder
+
+INFO: Trying to generate some docs rn. I put the word count but idk why i think gpt would know anything abt that (the word count i mean, since llms are shitty at considering numbers)
+
+INFO: doing the same thing for docker
+
+INFO: I knhow we will use rmhc policy docs or scraped data. just note we are effectively going to be dealing w strings (or json, if we want to fill out metadata fields). the scraper can return whatever and we can make a parser for it if needed, but the current context of the docs doesnt really matter. we just need to make sure it can answer actual questions
+
+INFO: im done generating docs. now i have to make sth to iterate over the data and add it to the vdb
+
+INFO: Before that i need to look into chunking. Idk if google has any good tokenizing models or sth but ima look that up real quick
+
+INFO: This is embarassing for me. but im probably gonna have to look up iterating through directories for file info
+
+INFO: nvm the ai autocomplete did it for me. Also i need to add txt or md in front of all the files for file extensions
+
+>WARN: Some characters in md are not in the utf-8 encoding, which is the default encoder for text in python file reading. Im just gonna ignore non utf-8 characters
+
+INFO: i forgot decoding is for byte info and not strings. Im lowkey dumb ash for that
+
+>WARN: ok so for some reason the code magically started working after i typed this, since f.read() returns byte data. I may have made a mistake somewhere
+
+>WARN: They are the exact same function returning different types. what is going on? thank god im recording this so ppl wont think im tweaking
+
+INFO: I'll set the doc id's to be uuid strings instead
+
+>WARN: remember to ocnvert uuid to strings cuz they are their own objects. This gives me headaches at work when i have to do it cuz i always forget 
+
+INFO: ok its returnin stuff. now i need to parse the data its showing me. This is the most annoying part of this stuff imo. Im using pprint now to make data veiwing easier for me
+
+INFO: it returns each document chunk as a list/array of strings. we need to join those so the llm can actually have context to use
+
+INFO: Ok so it looks like i misjudged how the text is returned. i thought the documents was a list of list of strings, where each list is a chunk. as it turns out, each obj in the documents is its own chunk i think
+
+INFO: Its just a list of strings for each chunk. my bad
+
+>WARN: In this chunk refers to the entire doc. this is cuz we didnt actually chunk the docs before adding them, which im gonna have to sort out soon
+
+INFO: Im defaulting to `res['documents'][0]` for the chunk list cuz i dont think theres any other list in the `res['documents']` value
+
+INFO: Now i need to look into chunking
+
+INFO: Ai autocomplete made me realize i could use character chunking instead of token chunking. 
+
+INFO: nevermind. i dont want to half ass this. also i just remebered overflow for chunking so context isnt lost in chunks. If you dont know what i mean by overflow, its when you account for extra tokens per chunk to include data from the next chunk or the one before it to ensure theres extra contextual data for chunks.
+
+INFO: Im gonna look on google to see if i was right about chunk overflow
+
+INFO: I was wrong. in the naming its called overlap, not overflow. here is the same paragraph w the right name
+
+'''also i just remebered overlap. If you dont know what i mean by overlap, its when you account for extra tokens per chunk to include data from the next chunk or the one before it to ensure theres extra contextual data for chunks.
+'''
+
+INFO: At least i was mostly right for chunk overlapping definition. so thats good. Here is a snipper from bing ai overview 
+
+'''
+Chunk overlapping is a technique used when splitting large text into smaller segments (chunks) for processing in tasks like RAG (Retrieval-Augmented Generation), embeddings, or search indexing. It ensures that consecutive chunks share a portion of their content, preserving context across boundaries.
+
+Chunk size defines the maximum number of characters or tokens in a chunk. For example, with a size of 300 tokens, each chunk will contain up to 300 tokens. Chunk overlap specifies how many tokens from the end of one chunk are repeated at the start of the next, typically 10–20% of the chunk size.
+
+Why overlap matters
+
+Preserves context: Prevents loss of meaning when sentences or ideas span across chunk boundaries.
+
+Improves retrieval accuracy: Ensures that search or embedding queries capture relevant information even if it’s split between chunks.
+
+Handles long sentences: Avoids cutting important phrases in ways that distort meaning.
+
+Mitigates poor chunking: Reduces the risk of misinterpretation when semantic chunking isn’t perfect.
+'''
+
+INFO: If you dont like ai overviews, here is an [article u can look at thats helpful](https://dev.to/tak089/what-is-chunk-size-and-chunk-overlap-1hlj)
+
+INFO: Im considering defaulting to the langchain text splitter, but im pretty sure we decided to use huggingchain, so ill try to use that
+
+INFO: Im not sure if AutoTokenizer.from_pretrained() actually downloads the model on your computer. im not tryna do that cuz i have no space
+
+INFO: looks like i have to load the tokenizer. whatever. ill deal w space requirements later. hopefully tokenizing the text doesnt take too long
+
+INFO: I think the long install times may be sth specific to my computer
+
+INFO: This is taking really long. or maybe i am just impatient. nevermind it finished while i was typing this
+
+INFO: Before i go into implementing the tokenizer with huggingface, please be aware most agent workflows have tokenizers setup so you dont have to do this.
+
+INFO: I just saw since i dont have pytorch i cant use models. thats fine since we will be using gemini for api calls. unless i wasnt paying attention in the discord call. if i am wrong abt that my bad
+
+INFO: I was looking at the docstrings for the tokenizer when i can look up the api docs. im lowk dumb
+
+INFO: The confusion im getting from the padding parameter is making me want to ignore chunk overlap all together
+
+INFO: The tokenizer gave me a list of ints when i though id get strings. this is why u read the api docs well for future ref
+
+INFO: Just tokenized a question. it tokenized kubernetes as like 4 tokens which is lowkey weird. gonna switch to a different tokenizer. probably the gpt one
+
+INFO: i dont even know what gpt2 tokenizer just did bro. i need to actually look for one. maybe kubernetes is supposed to be tokenized or sth but i might switch back to the bert one
+
+INFO: nevermind ima just stick w the gpt one and figure out how im going to do this. effectively for each doc, just tokenize the whole thing and split per token limit
+
+INFO: i accidentally used floor division operator instead of the mod operator for a second. i will explain in the next snippet
+
+INFO: Ok i figured out the chunker. basically we tokenize the whole text, then check if the index of the token in the mod of the chunk size is 0 (ie, is the current index divisible by the chunk size). if so, we know the chunk is at the exact size needed. 
+
+INFO: Now i need to implement overflow. im lowkey tired but want to finish this before i go to bed
+
+INFO: before i work on overflow, im updating the chunker to add actual strings.
+
+INFO: the gpt tokenizer adds an extra character (Ġ) and idk what it is but i dont want it in the chunks. im gonna have to get rid of it rq
+
+INFO: I tried to have utf-8 ignore the character, but i guess its actually a utf-8 character and i cant just get rid of it. I dont use a find and replace because then if we change tokenizers we would be in a sticky situation
+
+INFO: THANK GOD THERE IS A METHOD TO CONVERT TOKENS BACK TO STRINGS :D. You do not know how happy this makes me
+
+INFO: It does what i want it to and removes tokenizing artifacts (the fancy way of describing the extra characters i spoke of earlier)
+
+INFO: Now we can move on to overlap. Though im not sure how i would implement that at the moment.
+
+INFO: Tbh im considering ignoring it because of complexity. For now ill move the chunker function up and use it in the actual vdb
+
+INFO: Truthfully a better way to do the chunking would be to use a while loop till we hit the null char of the string, assuming we were doing this in C. but idc. also i think len is implemented as an O(1) operation (ie in it runs in constant time, not linearly, so the chunking function processes tokens in O(n) time where n is the number of tokens. to be more accurate we would have to account for the time complexity for appending the chunk docs and the time complexity of the convert_tokens_to_string() function, but i took CS260 last year so im not doing that)
+
+INFO: Just updated the file loader with the chunker. will clear the vdb and try again. moment of truth and fingers crossed this works
+
+INFO: idk why the ipynb kernel is taking so long to restart tbh
+
+INFO: just realized i made a mistake where the chunker returns the WHOLE doc as chunks, and i forgot. when i am the one i wrote the function. this is kinda funny
+
+INFO: It works. hooray :D
+
+INFO: Gonna add a little llm test for fun. yes i typed it exactly as i did in the comment.
+
+INFO: I though i ran out of quota for gemini but apparently not. idek gng. maybe the model i was using was wrong or sth?
+
+INFO: im gonna look up a rag prompt format online and use it
+
+INFO: Got a rag prompt from [agentset.ai](https://agentset.ai/rag-prompts)
+
+INFO: I guess im pretty much done with this. The vid is for anyone who wants to know how i set this without me telling them. I was listening to music on my phone while doing this, hence why i used notes instead of just talking. also im not trying to have my voice recorded on a mic. If you have any questions reach out to me. you probably have my discord or my number if you got this video. hope this was helpful. :D
+
+-chi
+
+INFO: After recording the vid, i forgot to talk about indexing. mainly cuz i dont know too much about it. we can configure chroma db collections using the configuration argument. more on that [here](https://docs.trychroma.com/docs/collections/configure). I also forgot to go into metadata filtering. more on that, specifically for chromdb, [here](https://docs.trychroma.com/docs/querying-collections/metadata-filtering)
+
