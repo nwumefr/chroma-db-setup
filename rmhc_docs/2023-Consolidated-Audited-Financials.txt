@@ -1,0 +1,2110 @@
+RONALD MCDONALD HOUSE
+CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+Consolidated Financial Statements
+For the Year Ended December 31, 2023
+(With Summarized Financial Information for the Year Ended December 31, 2022)
+
+and
+Report Thereon
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+TABLE OF CONTENTS
+For the Year Ended December 31, 2023
+_______________
+Page
+Independent Auditors’ Report ............................................................................................................. 1-2
+Consolidated Financial Statements
+Consolidated Statement of Financial Position ..................................................................................... 3
+Consolidated Statement of Activities ................................................................................................... 4
+Consolidated Statement of Functional Expenses ................................................................................5
+Consolidated Statement of Cash Flows............................................................................................... 6
+Notes to Consolidated Financial Statements ................................................................................. 7-26
+
+INDEPENDENT AUDITORS’ REPORT
+To the Board of Directors of
+Ronald McDonald House Charities Philadelphia Region and Affiliates
+Opinion
+We have audited the consolidated financial statements of Ronald McDonald House Charities
+Philadelphia Region and its affiliates PRMH, Inc. and PRMH Equipment, Inc., (collectively referred
+to as RMHC-PHI), which comprise the consolidated statement of financial position as of
+December 31, 2023, and the related consolidated statements of activities, functional expenses
+and cash flows for the year then ended, and the related notes to the consolidated financial
+statements.
+In our opinion, the accompanying consolidated financial statements present fairly, in all material
+respects, the financial position of RMHC-PHI as of December 31, 2023, and the changes in its
+net assets and its cash flows for the year then ended in accordance with accounting principles
+generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United
+States of America (GAAS). Our responsibilities under those standards are further described in
+the Auditors’ Responsibilities for the Audit of the Financial Statements section of our report. We
+are required to be independent of RMHC-PHI and to meet our other ethical responsibilities in
+accordance with the relevant ethical requirements relating to our audit. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the consolidated financial
+statements in accordance with accounting principles generally accepted in the United States of
+America, and for the design, implementation, and maintenance of internal control relevant to the
+preparation and fair presentation of consolidated financial statements that are free from material
+misstatement, whether due to fraud or error.
+In preparing the consolidated financial statements, management is required to evaluate whether
+there are conditions or events, considered in the aggregate, that raise substantial doubt about
+RMHC-PHI’s ability to continue as a going concern within one year after the date that the
+consolidated financial statements are available to be issued.
+
+-1-
+
+Marcum llp / 1899 L Street, NW / Suite 850 / Washington, DC 20036 / Phone 202.227.4000 / marcumllp.com
+
+Auditors’ Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the consolidated financial
+statements as a whole are free from material misstatement, whether due to fraud or error, and to
+issue an auditors’ report that includes our opinion. Reasonable assurance is a high level of
+assurance but is not absolute assurance and therefore is not a guarantee that an audit conducted
+in accordance with GAAS will always detect a material misstatement when it exists. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from
+error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the
+override of internal control. Misstatements are considered material if there is a substantial
+likelihood that, individually or in the aggregate, they would influence the judgment made by a
+reasonable user based on the consolidated financial statements.
+In performing an audit in accordance with GAAS, we:
+•
+•
+
+•
+
+•
+
+•
+
+exercise professional judgment and maintain professional skepticism throughout the audit.
+identify and assess the risks of material misstatement of the consolidated financial statements,
+whether due to fraud or error, and design and perform audit procedures responsive to those
+risks. Such procedures include examining, on a test basis, evidence regarding the amounts
+and disclosures in the consolidated financial statements.
+obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of RMHC-PHI’s internal control. Accordingly, no such opinion
+is expressed.
+evaluate the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluate the overall
+presentation of the consolidated financial statements.
+conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about RMHC-PHI’s ability to continue as a going
+concern for a reasonable period of time.
+
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal
+control related matters that we identified during the audit.
+Other Matter
+Report on Summarized Comparative Information
+We have previously audited RMHC-PHI’s 2022 consolidated financial statements, and we
+expressed an unmodified audit opinion on those audited consolidated financial statements in our
+report dated May 4, 2023. In our opinion, the summarized comparative information presented
+herein as of and for the year ended December 31, 2022, is consistent, in all material respects,
+with the audited consolidated financial statements from which it has been derived.
+
+Washington, DC
+April 30, 2024
+
+-2-
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+December 31, 2023
+(With Summarized Financial Information as of December 31, 2022)
+_______________
+
+2023
+
+ASSETS
+Cash and cash equivalents
+Cash – restricted
+Investments
+Pledges and contributions receivable, net
+Inventory
+Prepaid expenses and other assets
+Notes receivable
+Property and equipment, net
+TOTAL ASSETS
+LIABILITIES AND NET ASSETS
+Liabilities
+Accounts payable and accrued expenses
+Deferred revenue
+Line of credit
+Notes payable
+
+$
+
+1,194,544
+99,546
+5,397,023
+1,137,794
+11,278
+101,372
+16,436,200
+54,580,488
+
+$
+
+1,406,467
+191,404
+4,831,544
+1,264,517
+15,282
+114,894
+16,436,200
+56,641,305
+
+$
+
+78,958,245
+
+$
+
+80,901,613
+
+$
+
+1,107,368
+15,000
+2,524,674
+23,525,000
+
+$
+
+732,151
+3,019,674
+23,525,000
+
+TOTAL LIABILITIES
+Net Assets
+Without donor restrictions
+With donor restrictions
+TOTAL NET ASSETS
+TOTAL LIABILITIES AND NET ASSETS
+
+$
+
+27,172,042
+
+27,276,825
+
+49,397,636
+2,388,567
+
+51,698,898
+1,925,890
+
+51,786,203
+
+53,624,788
+
+78,958,245
+
+The accompanying notes are an integral part of these consolidated financial statements.
+-3-
+
+2022
+
+$
+
+80,901,613
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+CONSOLIDATED STATEMENT OF ACTIVITIES
+For the Year Ended December 31, 2023
+(With Summarized Financial Information for the Year Ended December 31, 2022)
+_______________
+
+OPERATING REVENUE AND SUPPORT
+Public support:
+Grants and contributions
+Telethon revenue
+Special event revenue
+Cost of direct benefit to donors
+Special event revenue, net
+
+Without Donor
+Restrictions
+
+$
+
+5,771,269
+754,284
+
+With Donor
+Restrictions
+
+$
+
+1,587,293
+-
+
+2023
+Total
+
+$
+
+7,358,562
+754,284
+
+2022
+Total
+
+$
+
+8,285,988
+901,221
+
+1,061,866
+(342,660)
+719,206
+
+-
+
+1,061,866
+(342,660)
+719,206
+
+973,403
+(355,636)
+617,767
+
+Donated goods and services
+
+831,958
+
+-
+
+831,958
+
+322,438
+
+Program service revenue:
+Guest fees, net
+Other
+Investment income, net
+Net assets released from time restrictions
+Net assets released from program restrictions
+
+365,065
+56,412
+321,062
+212,500
+986,430
+
+44,283
+(212,500)
+(986,430)
+
+365,065
+56,412
+365,345
+-
+
+348,181
+51,185
+251,765
+-
+
+10,018,186
+
+432,646
+
+10,450,832
+
+10,778,545
+
+9,912,867
+380,884
+113,418
+100,000
+
+-
+
+9,912,867
+380,884
+113,418
+100,000
+
+10,138,092
+287,209
+54,581
+100,000
+
+10,507,169
+
+-
+
+10,507,169
+
+10,579,882
+
+1,630,848
+722,969
+
+-
+
+1,630,848
+722,969
+
+1,275,255
+702,467
+
+2,353,817
+
+-
+
+2,353,817
+
+1,977,722
+
+12,860,986
+
+-
+
+12,860,986
+
+12,557,604
+
+(2,842,800)
+
+432,646
+
+(2,410,154)
+
+(1,779,059)
+
+165,414
+870
+375,254
+-
+
+30,031
+-
+
+165,414
+870
+405,285
+-
+
+165,414
+2,195
+(1,222,522)
+(266,907)
+
+CHANGE IN NET ASSETS
+
+(2,301,262)
+
+462,677
+
+(1,838,585)
+
+(3,100,879)
+
+NET ASSETS, BEGINNING OF YEAR
+
+51,698,898
+
+1,925,890
+
+53,624,788
+
+56,725,667
+
+2,388,567
+
+$ 51,786,203
+
+$ 53,624,788
+
+TOTAL OPERATING REVENUE
+AND SUPPORT
+OPERATING EXPENSES
+Program Services:
+House
+Camp
+Family rooms
+Care mobile
+Total Program Services
+Supporting Services:
+Fundraising
+Administration
+Total Supporting Services
+TOTAL OPERATING EXPENSES
+Change in Net Assets From Operations
+Other Items
+Interest income from note receivable
+Revenue on ground lease and interest
+Unrealized gain (loss) on investments
+Employee retention tax credit disallowed
+
+NET ASSETS, END OF YEAR
+
+$ 49,397,636
+
+$
+
+The accompanying notes are an integral part of these consolidated financial statements.
+-4-
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+CONSOLIDATED STATEMENT OF FUNCTIONAL EXPENSES
+For the Year Ended December 31, 2023
+(With Summarized Financial Information for the Year Ended December 31, 2022)
+_______________
+
+Program Services
+
+House
+Salaries and wages
+Depreciation
+Donated goods and services
+Grants and contributions
+Guest meals and assistance
+Building maintenance and repair
+Contractors and consultants
+Bank fees
+Public relations
+Employee benefits
+Payroll taxes
+Technology, hardware and equipment
+Supplies
+Parking and transportation
+Utilities
+Insurance
+Professional fees
+Miscellaneous expense
+Auto expense
+Travel and entertainment
+Education, licensing and dues
+Postage and delivery
+Office supplies and equipment
+Printing and stationery
+
+$
+
+Total Expenses by Function
+
+TOTAL EXPENSES INCLUDED
+ON THE STATEMENT OF
+ACTIVITIES
+
+$
+
+9,912,867
+
+Cost of direct benefit to donors
+
+-
+
+$
+
+Family
+Rooms
+
+Camp
+
+2,340,937
+2,139,320
+670,975
+690,756
+560,049
+620,114
+456,055
+444,954
+258,382
+190,308
+175,784
+185,687
+254,579
+202,521
+197,777
+184,483
+86,289
+137,351
+76,936
+16,763
+2,353
+5,381
+12,906
+2,207
+
+9,912,867
+
+$
+
+Supporting Services
+
+65,142
+16,168
+153,882
+103,269
+14,115
+5,163
+4,696
+2,812
+5,717
+804
+446
+1,544
+2,995
+1,834
+2,297
+-
+
+$
+
+Care Mobile
+
+80,557
+2,322
+10,898
+3,843
+5,973
+612
+3,947
+587
+3,458
+450
+771
+-
+
+$
+
+100,000
+-
+
+380,884
+
+113,418
+
+100,000
+
+-
+
+-
+
+-
+
+380,884
+
+$
+
+Total
+Program
+Services
+
+113,418
+
+$
+
+$
+
+2,486,636
+2,141,642
+687,143
+790,756
+724,829
+620,114
+559,324
+444,954
+272,497
+199,314
+186,453
+189,111
+264,243
+203,325
+197,777
+185,516
+86,289
+142,353
+76,936
+20,208
+4,187
+7,678
+13,677
+2,207
+
+Fundraising
+$
+
+10,507,169
+-
+
+100,000
+
+$ 10,507,169
+
+$
+
+950,166
+153,574
+884
+227,590
+96,438
+69,992
+55,712
+3,311
+1,525
+23,955
+32,715
+12,122
+2,196
+668
+
+Administration
+$
+
+383,763
+3,306
+94,886
+15,851
+33,232
+28,622
+32,233
+82,505
+13,419
+29,403
+4,353
+264
+1,132
+-
+
+$
+
+1,333,929
+153,574
+3,306
+95,770
+243,441
+129,670
+98,614
+87,945
+3,311
+82,505
+14,944
+53,358
+37,068
+12,386
+3,328
+668
+
+2023
+Total
+$
+
+3,820,565
+2,141,642
+840,717
+790,756
+724,829
+620,114
+562,630
+540,724
+515,938
+328,984
+285,067
+277,056
+264,243
+203,325
+197,777
+188,827
+168,794
+157,297
+76,936
+73,566
+41,255
+20,064
+17,005
+2,875
+
+2022
+Total
+$
+
+3,298,818
+2,126,437
+302,255
+2,517,496
+499,426
+397,012
+494,310
+523,150
+346,772
+389,852
+249,266
+226,678
+264,301
+116,162
+183,700
+166,562
+191,298
+109,380
+65,379
+46,255
+16,035
+14,587
+11,405
+1,068
+
+1,630,848
+
+722,969
+
+2,353,817
+
+12,860,986
+
+12,557,604
+
+342,660
+
+-
+
+342,660
+
+342,660
+
+355,636
+
+2,696,477
+
+$ 13,203,646
+
+$ 12,913,240
+
+1,973,508
+
+The accompanying notes are an integral part of these consolidated financial statements.
+-5-
+
+Total
+Supporting
+Services
+
+$
+
+722,969
+
+$
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the Year Ended December 31, 2023
+(With Summarized Financial Information for the Year Ended December 31, 2022)
+_______________
+
+2023
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+Change in net assets
+Adjustments to reconcile change in net assets to
+net cash provided by (used in) operating activities:
+Depreciation
+Realized gain on investments
+Unrealized (gain) loss on investments
+Contributions restricted for long-term capital project
+Changes in assets and liabilities:
+Employee retention credit receivable
+Pledges receivable
+Inventory
+Prepaid expenses and other assets
+Accounts payable and accrued expenses
+Deferred revenue
+
+$
+
+(1,838,585)
+
+2022
+$
+
+(2,833,972)
+
+2,141,642
+(237,414)
+(405,285)
+(132,037)
+
+2,126,437
+(140,099)
+1,222,522
+(1,469,608)
+
+126,723
+4,004
+13,522
+375,217
+15,000
+
+531,871
+145,388
+2,384
+(245,258)
+(130,921)
+(42,500)
+
+62,787
+
+(833,756)
+
+3,851,035
+(3,773,815)
+(80,825)
+
+2,096,364
+(2,023,926)
+(202,430)
+
+(3,605)
+
+(129,992)
+
+132,037
+(495,000)
+
+1,469,608
+150,350
+(2,768,872)
+
+NET CASH USED IN FINANCING ACTIVITIES
+
+(362,963)
+
+(1,148,914)
+
+NET DECREASE IN CASH AND CASH EQUIVALENTS
+
+(303,781)
+
+(2,112,662)
+
+1,597,871
+
+3,710,533
+
+NET CASH PROVIDED BY (USED IN) OPERATING ACTIVITIES
+CASH FLOWS FROM INVESTING ACTIVITIES
+Proceeds from sale of investments
+Purchases of investments
+Purchase of property and equipment
+NET CASH USED IN INVESTING ACTIVITIES
+CASH FLOWS FROM FINANCING ACTIVITIES
+Contributions restricted for long-term capital project
+Proceeds from line of credit
+Repayments on line of credit
+
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR
+CASH AND CASH EQUIVALENTS, END OF YEAR
+
+$
+
+1,294,090
+
+$
+
+1,597,871
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+Interest paid
+
+$
+
+445,733
+
+$
+
+435,494
+
+$
+
+1,194,544
+99,546
+
+$
+
+1,406,467
+191,404
+
+$
+
+1,294,090
+
+$
+
+1,597,871
+
+Reconciliation of cash and cash equivalents:
+Cash and cash equivalents
+Cash ‒ restricted
+
+The accompanying notes are an integral part of these consolidated financial statements.
+-6-
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+1.
+
+Organization and Summary of Significant Accounting Policies
+Philadelphia Ronald McDonald House (RMH) was incorporated in Pennsylvania on May 8, 1974,
+as a nonprofit organization for the purpose of supporting families of seriously ill children by creating
+a community of comfort and hope. On January 1, 2019, RMH signed an agreement with Ronald
+Mc Donald House Charities of the Philadelphia Region, Inc., a nonprofit organization who shared
+the mission and is registered in Pennsylvania, to merge with RMH with RMH continuing as the
+surviving organization with a new name Ronald McDonald House Charities Philadelphia Region.
+The major sources of revenue are corporate and individual donors as well as events.
+In April 2017, RMH formed a wholly controlled support corporation, PRMH, Inc., a 501(c)(3)
+nonprofit corporation incorporated the Commonwealth of Pennsylvania. PRMH, Inc. was
+established as part of a New Markets Tax Credit (NMTC) financing transaction for the RMH
+Expansion Project to act as a leverage lender, facilitating RMH’s ability to participate in the
+NMTC program. PRMH, Inc. was created to raise funds for the support and benefit of, and to
+carry out the purposes of, RMH which may include funds for capital expenditures, other financial
+purposes, and to manage and invest such funds for the benefit of RMH. These activities are
+funded primarily through grants and contributions.
+In August 2020, RMH formed a wholly controlled support corporation, PRMH Equipment, Inc.,
+a 501(c)(3) nonprofit corporation incorporated with the Commonwealth of Pennsylvania. PRMH
+Equipment, Inc. was established as part of a New Markets Tax Credit (NMTC) financing
+transaction for the equipment portion of the RMH Expansion Project to act as a leverage lender,
+facilitating RMH’s ability to participate in the NMTC program. PRMH Equipment, Inc. was
+created to raise funds for the support and benefit of, and to carry out the purposes of, RMH
+which may include funds for capital expenditures, other financial purposes, and to manage and
+invest such funds for the benefit of RMH. These activities are funded primarily through grants
+and contributions.
+RMH, PRMH, Inc., PRMH Equipment, Inc., are collectively referred to as RMHC-PHI.
+Programs
+House Program
+Two Ronald McDonald Houses, together serving up to 147 families each night, offer holistic
+support and lodging to families traveling 25 miles or further to Philadelphia to receive medical
+care for their seriously ill children. Founded as the first Ronald McDonald House in the world,
+RMHC-PHI is the model for more than 375 Houses in 65 countries and regions around the globe
+and has supported thousands of families in more than 45 years of operation.
+Since opening, the flagship House – located at 3925 Chestnut Street – grew to 72,000 square
+feet to accommodate a total of 45 families each night in 1995; in 2008, RMHC-PHI opened a
+second 27,000-square-foot, three-story home with 20 bedrooms located at 100 E. Erie Avenue
+to meet the expanding need for services throughout the City of Philadelphia. RMHC-PHI has
+recently expanded the Chestnut Street location by 98,364 square feet with 82 additional
+bedrooms to address the increasing demand for services. Construction of the new facility began
+in the summer of 2017 and concluded in early 2020.
+
+-7-
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+1.
+
+Organization and Summary of Significant Accounting Policies (continued)
+Programs (continued)
+House Program (continued)
+The Houses offer families a comfortable and secure room, daily home-cooked meals, a 24-hour
+food pantry, complimentary transportation around the city, free parking, and laundry facilities –
+all just minutes from the hospital. The Houses also offer TV lounges, indoor and outdoor play
+spaces, exercise rooms, family activities, loaner laptop computers and Wi-Fi, and social worker
+assistance. Additionally, the Houses offer the support of other families who understand what it
+is like to have a seriously ill child. While it costs RMHC-PHI more than $160 per night to provide
+these services, families are asked to pay $25 per night. However, many of the families are so
+financially devastated by their child’s illness (as a result of treatment costs, job loss or leave,
+traveling, and paying expenses at home) that their fee is waived or reduced; no one is ever
+turned away due to inability to pay.
+Families traveling from 25 miles away or further for medical care at Philadelphia hospitals are
+eligible to stay at the Houses, and children must be under the age of 21 and in active treatment.
+In 2023, RMHC-PHI’s two Houses combined had 1,930 family stays with families traveling from
+48 states, 43 countries and 2 U.S. territories; 34.3% of families traveled from within
+Pennsylvania. The average length of stay was 15 days, with the longest length of stay for one
+family totaling 365 consecutive days during 2023.
+While RMHC-PHI serves families whose children are being treated for an array of illnesses, the
+top departments in 2023 were orthopedics, oncology, neonatology, cardiology, and neurology.
+Each year, RMHC-PHI’s hospital partners include Children’s Hospital of Philadelphia (CHOP),
+St. Christopher’s Hospital for Children, Shriners Hospital, Wills Eye Hospital, the Hospital of the
+University of Pennsylvania and others.
+Volunteers are truly the heart of the Houses and RMHC-PHI relies on the dedicated service of
+more than 285 regularly scheduled volunteers to create a home for the families it serves.
+Volunteers staff the front desk, drive the shuttle vans and support operations in a variety of other
+capacities.
+RMHC-PHI awarded grant funds to an external organization to produce a film entitled “Audrey’s
+Children,” which is about the life of our organization’s visionary and co-founder, Dr. Audrey
+Evans. Grant monies were used to directly fund the expenses associated with filming the scenes
+around the opening of the Ronald McDonald House and costs associated with the Audrey Evans
+actor. Grant monies were received by donors for film production and the amount awarded was
+$1,670,876 and $73,244, for the year ended December 31 2022 and 2023, respectively, and is
+included in grants and contributions on the statement of functional expenses within the House
+program expenses.
+Camp Program
+Ronald McDonald Camp (RMC) enables children with cancer and their siblings to experience
+the joys of summer camp. Created by RMH co-founder Dr. Audrey E. Evans in 1986, this oneweek camp was one of the very first of its kind to offer a camp experience specifically designed
+
+-8-
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+1.
+
+Organization and Summary of Significant Accounting Policies (continued)
+Programs (continued)
+Camp Program (continued)
+for children with cancer and their siblings. RMC, held annually in the Pocono Mountains of
+Pennsylvania, includes all of the activities found at a traditional overnight summer camp, such
+as swimming, sailing, hiking, sports, arts and crafts, yoga, and rope courses, except that, at this
+camp, campers can participate no matter what limitations they have. For many campers, the
+week at camp is the first time they have ever tried the activities offered, and they go home not
+only having discovered a new talent or learned a new skill, but having gained a sense of selfconfidence. For children who have felt isolated from their peers through their illness, and siblings
+who have felt left out, camp is also an opportunity to join a family of campers who can relate to
+one another, and to develop a wide-reaching support network that will last long after the week
+of camp is over.
+Children ages 7 to 17 (including current or former cancer patients and one sibling) are welcome
+at camp and are divided by age into junior and senior camps. More than 100 fully-trained
+volunteer counselors (many of whom are cancer survivors and past campers) and a full team of
+over a dozen medical staff, including pediatric oncologists, nurses and social workers from
+CHOP, volunteer their time over the summer to make camp possible.
+In 2023, RMHC-PHI hosted two weeks of RMC for children with cancer and their siblings with
+primary goals of keeping campers safe and providing an inclusive community of fun where
+campers can experience engaging activities like any other kid.
+A week of virtual camp was held in July for 22 campers whose medical conditions did not allow
+for in person attendance. RMHC-PHI staff and camp volunteers held RMC virtually on the Zoom
+platform and utilized a password protected portal for campers and families to access daily
+activityies and evening entertainment. Each camper received a camper activity package prior
+to camp which contained a camp t-shirt, supplies for activities throughout the week, an
+instructions for accessing all online camp programming. Camper groups participated daily in
+small group cabin time, age-appropriate activities, and learned about industries with behind-thescenes looks with professionals. In the evenings, campers and counselors logged on for all
+camp activities with special guests, games, and the much-loved dance party.
+In August, 136 campers and three participants in a Young Adult Leadership Program returned to
+in person camp programming for a week at a campground in the Pocono Mountains. RMHC-PHI
+coordinated with healthcare partners to ensure a safe return to in person activities which prioritized
+immunocompromised camper health. Campers and counselors were required to be vaccinated,
+comply with pre-camp testing, and the majority of activities were done outdoors. 122 volunteers
+took part as counselors, activity specialists, and medical team members to make these weeks of
+Camp possible. This summer, the Camp also received the highest marks on the accreditation
+process through the American Camping Association, the standard camp excellence.
+
+-9-
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+1.
+
+Organization and Summary of Significant Accounting Policies (continued)
+Programs (continued)
+Camp Program (continued)
+While there is no charge to the patient campers, siblings traditionally can attend for a nominal
+fee of $150. In 2023, sibling fees totaled $6,050. Funding for the week is provided solely through
+the contributions of individuals and organizations. Ronald McDonald Camp is accredited
+through the American Camp Association (ACA) and is a member of the Children's Oncology
+Camping Association, International (COCA). Ronald McDonald Camp, when held in-person, is
+held at the Camp Timber Tops facility in Greeley, Pennsylvania.
+Family Room Program
+Three Ronald McDonald Family Rooms – two at CHOP and one at St. Christopher’s Hospital
+for Children – extend the comfort and support of the Houses into the hospital by offering a quiet
+place to rest and recharge away from the bedside for families whose children are receiving
+treatment. The first Family Room at CHOP opened in the Oncology Unit in 2006. This Family
+Room is open 24 hours a day, seven days a week including holidays; any patient and his/her
+family in one of the combined total of 50 patient beds on the Oncology Unit may use the Family
+Room. In March of 2017, RMHC-PHI opened a Family Room at St. Christopher’s Hospital for
+Children to serve the Critical Care Tower. This Family Room serves up to 65 beds a night. In
+2018, RMHC-PHI opened a second Family Room at CHOP’s Seashore House.
+The Family Rooms offer a range of complimentary amenities and programming in a warm,
+home-like environment. A central pillar of these services is the meal program which, thanks to
+the generosity of donors, provides families with breakfast and dinner at scheduled times
+throughout the week at the family-style dining tables located in the rooms. Snacks, coffee and
+tea are also available to families through the program. Other amenities include comfortable
+seating, kitchen facilities, televisions, DVD players (with an assortment of movies), books and
+magazines. The Oncology Family Room also offers laundry facilities and a guest bathroom.
+Programming in Family Rooms includes complimentary haircuts, yoga instruction, stress
+management workshops, art therapy, crafts and a variety of other activities.
+The Family Rooms serve families traveling from both near and far. Families coming from 25
+miles away or farther and staying at Philadelphia Ronald McDonald House in the evening are
+able to take a break in the rooms during the day, and families residing closer than 25 miles who
+do not wish to leave their child’s side due to age or severity of illness can utilize the rooms as
+much as needed.
+The Ronald McDonald Care Mobile (RMCM)
+The Ronald McDonald Care Mobile (RMCM) program provides access to pediatric medical,
+dental and/or health education services for children living in underserved communities. The
+RMCM program is breaking down the barriers to health care, expanding critical health care
+access and extending the Charity’s reach to countless underserved children. The RMCM
+program serves children that are at great risk to develop acute conditions, dental problems,
+
+- 10 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+1.
+
+Organization and Summary of Significant Accounting Policies (continued)
+Programs (continued)
+The Ronald McDonald Care Mobile (RMCM) (continued)
+chronic diseases and even serious lifelong illnesses. Through partnerships with St.
+Christopher’s Foundation for Children, RMHC-PHI is bringing critical dental services to underinsured or un-insured children right in their own neighborhood through onsite visits at schools,
+head start programs and homeless shelters.
+In 2023, the RMCM visited 47 unique site locations and provided dental education and care to
+1673 children. The RMCM provided this vital care and education for a total of 219 days.
+Basis of Accounting
+RMHC-PHI prepares its consolidated financial statements on the accrual basis of accounting.
+Consequently, revenue is recognized when earned and expenses are recorded when the
+obligation is incurred.
+Principles of Consolidation
+RMH, PRMH, Inc. and PRMH Equipment, Inc. have been consolidated due to the presence of
+effective control and economic interest, as required under accounting principles generally
+accepted in the United States of America (GAAP). All intra-entity balances and transactions
+between RMH, PRMH, Inc. and PRMH Equipment, Inc. have been eliminated in consolidation.
+Cash and Cash Equivalents
+RMHC-PHI classifies all highly liquid investments with original maturities of less than 90 days
+as cash equivalents. Cash and cash equivalents include demand deposits and money market
+funds. Restricted cash includes a loan reserve established for payment of the servicing fee in
+compliance with the notes payable agreements.
+Investments
+Investments consist of mutual funds, exchange-traded funds and money market funds. These
+investments are recorded in the accompanying consolidated financial statements at fair value.
+Fair value is the price that would be received to sell an asset or paid to transfer a liability through
+an orderly transaction between market participants at the measurement date. Realized gains
+or losses on sales of investments are recorded on the trade dates of the transactions.
+Unrealized gains or losses on investments are determined by the change in fair value between
+the beginning and end of the reporting period. All such gains and losses, interest, and dividends
+are included in investment income in the consolidated statement of activities, net of investment
+management fees.
+Fair Value Measurement
+Accounting standards define fair value and establish a framework for measuring fair value for
+those assets and liabilities that are measured at fair value on a recurring basis. In accordance
+with the fair value measurement standards, RMHC-PHI has categorized its applicable financial
+
+- 11 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+1.
+
+Organization and Summary of Significant Accounting Policies (continued)
+Fair Value Measurement (continued)
+instruments into a required fair value hierarchy. The fair value hierarchy gives the highest priority
+to quoted prices in active markets for identical assets or liabilities (Level 1) and the lowest priority
+to unobservable inputs (Level 3). If the inputs used to measure the financial instruments fall
+within different levels of the hierarchy, the categorization is based on the lowest-level input that
+is significant to the fair value measurement of the instrument.
+Applicable financial assets and liabilities are categorized based on the inputs to the valuation
+techniques as follows:
+Level 1 – Financial assets and liabilities whose values are based on unadjusted quoted
+prices for identical assets or liabilities in an active market that RMHC-PHI has the ability
+to access.
+Level 2 – Financial assets and liabilities whose values are based on quoted prices in
+markets that are not active or model inputs that are observable, either directly or
+indirectly, for substantially the full term of the asset or liability.
+Level 3 – Financial assets and liabilities whose values are based on prices or valuation
+techniques that require inputs that are both unobservable and significant to the overall
+fair value measurement. These inputs reflect management’s own assumptions about
+the assumptions a market participant would use in pricing the asset or liability.
+As of December 31, 2023, only RMHC-PHI’s investments, as described in Note 3 of these
+consolidated financial statements, were measured at fair value on a recurring basis.
+Pledges and Contributions Receivable
+Pledges and contributions receivable consist of unconditional promises to give to RMHC-PHI.
+Unconditional promises to give are recorded at their present net realizable value. For those due
+in more than one year, fair value is estimated by discounting estimated future cash flows at rates
+approximating the current rate for risk-free returns. Management determines the allowance for
+doubtful pledges by reviewing all outstanding pledges for possible uncollectibility. Pledges are
+charged to the allowance account when deemed uncollectible.
+Inventory
+Inventory is stated at net realizable value on a first-in, first-out basis and consists of clothing,
+aprons, backpacks, books, hats, pins and tote bags.
+Property and Equipment and Related Depreciation
+Land, buildings, building improvements, furniture, fixtures and equipment, and construction in
+progress are recorded at cost. Donated property is recorded at fair value at the date of donation.
+Depreciation is computed using the straight-line method over the estimated useful lives of the
+assets: five to 35 years for the building and improvements and 3 to 10 years for furniture, fixtures
+and equipment. Construction in progress is not depreciated until the construction is completed
+and the asset is placed in service. Expenditures for major repairs and improvements are
+
+- 12 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+1.
+
+Organization and Summary of Significant Accounting Policies (continued)
+Property and Equipment and Related Depreciation (continued)
+capitalized, while expenditures for minor repairs and maintenance costs are expensed when
+incurred. RMHC-PHI capitalizes all fixed assets greater than $3,000 and an economic life in
+excess of one year. Upon the retirement or disposal of assets, the cost and accumulated
+depreciation are eliminated from the respective accounts and the resulting gain or loss, if any,
+is included in revenue or expenses in the accompanying consolidated statement of activities.
+Impairment of Long-Lived Assets
+RMHC-PHI reviews its long-lived assets for impairment whenever events or changes in
+circumstances indicate that the carrying value of an asset may not be recoverable. If the fair value
+is less than the carrying amount of the asset, an impairment loss is recognized for the difference.
+There were no impairment losses recognized for the year ended December 31, 2023.
+Classification of Net Assets
+The net assets of RMHC-PHI are reported as follows:
+
+
+Net assets without donor restrictions represent the portion of expendable funds that are
+available for any purpose in performing the primary objectives of RMHC-PHI at the
+discretion of RMHC-PHI’s management and the Board of Directors (the Board). The
+Board designates a portion of these net assets for specific purposes, which makes them
+unavailable for use at management’s discretion.
+
+
+
+Net assets with donor restrictions represent amounts that are specifically restricted by
+donors or grantors for various purposes or for use in future time periods. Net assets with
+donor restrictions also represent endowment gifts requiring that the principal be invested
+in perpetuity and that only the investment income be expended for purposes designated
+by the donor.
+
+Revenue Recognition
+Contributions and Grants
+RMHC-PHI recognizes all unconditional contributed support in the period in which the
+commitment is made. RMHC-PHI reports gifts of cash and other assets as having donor
+restrictions if they are received with donor stipulations that limit the use of the donated assets.
+When a stipulated time restriction ends or purpose of a restriction is accomplished, net assets
+with donor restrictions are reclassified to net assets without donor restrictions and reported in
+the consolidated statement of activities as net assets released from restrictions. Unconditional
+contributed support that is expected to be collected within one year is recorded at its net
+realizable value. Unconditional contributed support that is expected to be collected after one
+year is recorded at the present value of its estimated future cash flows discounted back to
+present value using the appropriate discount rates. Amortization of the discount is recorded as
+additional contribution revenue and used in accordance with donor-imposed restrictions, if any,
+on the contributed support to which the discount relates.
+
+- 13 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+1.
+
+Organization and Summary of Significant Accounting Policies (continued)
+Revenue Recognition (continued)
+Contributions and Grants (continued)
+A contribution is conditional if an agreement includes a barrier that must be overcome and either
+a right of return of assets transferred or a right of release of a promisor’s obligation to transfer
+assets. Conditional promises to give are not recognized until they become unconditional, that
+is, when the barrier(s) in the agreement are overcome.
+Donated Goods and Services
+Nonfinancial contributions (gifts-in-kind) are recognized as both support and revenue and
+expenses in the accompanying consolidated statement of activities at the estimated fair value
+at the date of donation. In-kind contributions include donated professional services and goods.
+Sponsorship Revenue
+The portion of Telethon sponsorship revenue that relates to the commensurate value the
+sponsor received in return is recognized when the related events are held and performance
+obligations are met.
+Special Event Revenue – Ticket Sales
+The portion of ticket sales that relates to the commensurate value the attendee receives in return
+is recognized when the related events are held and performance obligations are met.
+Deferred Revenue
+Income from event sponsorships received in advance of future special events, which the
+resource provider is receiving commensurate value in return or a right of return exists if the event
+does not occur, is deferred and recognized in the period to which the sponsorship relate.
+Volunteers
+Many volunteers, including members of the Board, have made significant contributions of time
+in furtherance of RMHC-PHI’s policies and programs. The value of this contributed time does
+not meet the criteria for recognition and, therefore, is not reflected in the consolidated statement
+of activities.
+Functional Allocation of Expenses
+The costs of providing the various programs and other activities have been summarized on a
+functional basis in the accompanying consolidated statement of functional expenses. Expenses
+directly attributed to specific functional areas of RMHC-PHI are reported as expenses of those
+functional areas, while shared costs that benefit multiple functional areas have been allocated
+among the various functional areas based on estimates determined by management to be
+equitable. The shared costs are allocated based on a time study which is done annually as part
+of the budgeting process.
+
+- 14 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+1.
+
+Organization and Summary of Significant Accounting Policies (continued)
+Use of Estimates
+Management uses estimates and assumptions in preparing these consolidated financial
+statements in accordance with GAAP. Those estimates and assumptions affect the reported
+amounts of assets and liabilities, the disclosure of contingent assets and liabilities, and the
+reported revenues and expenses. Accordingly, actual results could differ from those estimates.
+Measure of Operations
+Income from investments, including realized gains and losses on investment transactions, is
+considered to be revenue generated from operations. Unrealized gains or losses recognized
+from the change in the fair value of investments are not considered to be from operations until
+such time as those gains or losses are realized through investment sale transactions. In
+addition, interest income from notes receivable, net assets released for long-term capital
+projects, and equipment are not considered to be from operations.
+New Accounting Pronouncements
+In June 2016, the Financial Accounting Standards Board (the FASB) issued guidance (FASB
+ASC 326), Current Expected Credit Losses, which significantly changed how entities will
+measure credit losses for most financial assets and certain other instruments that not measured
+at fair value through net income. The most significant change in this standard is a shift from the
+incurred loss model to the expected loss model. Under the standard, disclosures are required
+to provide users of the financial statements with useful information in analyzing an entity’s
+exposure to credit risk and the measurement of credit losses. Financial assets held by the
+organization that are subject to the guidance in FASB ASC 326 were notes receivable.
+RMHC-PHI adopted the standard effective January 1, 2023. The adoption had no impact to the
+financial statements.
+
+2.
+
+Pledges and Contributions Receivable
+Pledges and contributions receivable consist of unconditional promises to give made by
+individuals and foundations. As of December 31, 2023, pledges and contributions receivable
+were due as follows:
+Due in less than one year
+Due in one to five years
+Total Pledges and Contributions Receivable
+Less: Present Value Discount (3.25% – 5.50%)
+Pledges and Contributions Receivable, Net
+All amounts were deemed to be fully collectible as of December 31, 2023.
+
+- 15 -
+
+$
+
+987,472
+161,360
+1,148,832
+(11,038)
+$ 1,137,794
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+3.
+
+Investments and Fair Value Measurement
+The following table summarizes RMHC-PHI’s investments measured at fair value on a recurring
+basis as of December 31, 2023, aggregated by the fair value hierarchy level with which those
+measurements were made:
+
+Exchange-traded funds:
+Equity funds
+Fixed-income funds
+Mutual funds:
+Fixed-income funds
+Equity funds
+Money market funds
+Total Investments
+
+Total
+Fair Value
+
+Quoted Prices
+in Active
+Markets for
+Identical
+Assets
+(Level 1)
+
+$ 3,467,612
+232,566
+
+$ 3,467,612
+232,566
+
+1,344,696
+157,971
+194,178
+$ 5,397,023
+
+1,344,696
+157,971
+194,178
+$ 5,397,023
+
+Significant
+Other
+Observable
+Inputs
+(Level 2)
+
+Significant
+Unobservable
+Inputs
+(Level 3)
+
+$
+
+$
+
+$
+
+-
+
+$
+
+-
+
+Exchange-traded funds, mutual funds and money market funds are Level 1 investments and are
+valued at the net asset value of shares held at year-end. The funds have readily available
+quoted market prices from an active market where there is significant transparency in the
+executed/quoted market price.
+4.
+
+Property and Equipment
+Property and equipment consisted of the following at December 31, 2023:
+Buildings and building improvements
+Land
+Equipment and furniture
+Total Property and Equipment
+Less: Accumulated Depreciation
+Property and Equipment, Net
+
+$ 65,752,189
+1,232,928
+2,164,143
+69,149,260
+(14,568,772)
+$ 54,580,488
+
+Depreciation expense was $2,141,642 for the year ended December 31, 2023.
+5.
+
+New Markets Tax Credit Financing – Notes Receivable and Payable
+In April 2017, RMHC-PHI entered into a debt transaction to access additional funds through the
+New Markets Tax Credit Program (the NMTC Program). These funds were used for the
+expansion of its 3925 Chestnut Street Building Facility. The NMTC Program permits taxpayers
+
+- 16 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+5.
+
+New Markets Tax Credit Financing – Notes Receivable and Payable (continued)
+to claim federal tax credits for making Qualified Equity Investments in a designated Community
+Development Entity (CDE). The CDE must use substantially all the of the proceeds to make
+Qualified Low-Income Community Investments (QLICIs). The tax credits are claimed over a
+seven-year period and equate to 39% of the QLICIs. RMHC-PHI has partnered with an investor,
+Chase Community Equity LLC (the Equity Investor), a Delaware limited liability company. The
+Equity Investor contributed $7,378,000 in equity to the Chase NMTC PRMH Investment Fund,
+LLC (the Fund), a Delaware limited liability company. In conjunction with the equity investment,
+RMH (the leverage lender) made a loan of $15,076,200 to the Fund. In turn, the Fund made
+equity investments in four CDEs which provided eight loans to PRMH, Inc. totaling $21,525,000.
+The loans were made to PRMH, Inc., which is considered a qualified active low-income
+community business. The QLICI loans have a seven-year compliance period during which no
+principal can be repaid.
+The loan provided by RMH to the Fund bears interest at 1% and matures on June 30, 2037.
+Interest-only payments are due quarterly commencing on June 15, 2017, and continuing through
+December 15, 2024. Commencing on March 15, 2025, the quarterly payments will be composed
+of both principal and interest in the amount of $321,138, for an annual total of $1,284,552. For
+the year ended December 31, 2023, RMH recognized interest income of $150,762 related to
+this note receivable, which is included in interest income from the note receivable in the
+accompanying consolidated statement of activities. There was no accrued interest income as
+of December 31, 2023.
+The loans with each of the CDEs require quarterly interest-only payments at 1.042% per annum
+until December 5, 2024, starting on June 5, 2017. Thereafter, annual principal payments of
+$1,157,575, plus interest at 1.042% per annum, are due until December 1, 2041, if they are not
+accelerated or otherwise retired by the respective lenders at the end of the compliance period.
+For the year ended December 31, 2023, PRMH Inc. incurred interest expense of $224,291.
+There was no unpaid interest expense related to these loans as of December 31, 2023.
+The loans from the CDEs were as follows:
+Lender
+Commonwealth Corner Stone
+Group Ltd. XXXV
+Commonwealth Corner Stone
+Group Ltd. XXXV
+City First Capital 47, LLC
+City First Capital 37, LLC
+CNMC Sub-CDE 126, LLC
+CNMC Sub-CDE 126, LLC
+PIDC-RDC Sub-CDE XV, LP
+PIDC-RDC Sub-CDE XV, LP
+Total
+
+- 17 -
+
+Loan
+
+Rate
+
+$ 4,062,600
+
+1.042%
+
+1,817,400
+6,693,700
+2,616,300
+664,600
+335,400
+3,655,300
+1,679,700
+$ 21,525,000
+
+1.042%
+1.042%
+1.042%
+1.042%
+1.042%
+1.042%
+1.042%
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+
+5.
+
+New Markets Tax Credit Financing – Notes Receivable and Payable (continued)
+The loans are secured by all of PRMH Inc.’s revenue, inventory, furniture, fixtures, equipment,
+other assets, licenses and intangibles, and the deed of trust in PRMH Inc.’s interest in the
+property (3925 Chestnut Street Building expansion).
+The NMTC financing agreement required PRMH Inc. to establish and fund individual fee and
+expense reserve accounts totaling $191,063 during the initial year to pay interest and certain
+annual service fees to the respective CDEs over the seven-year NMTC compliance period. Over
+the term of the agreement, RMHC-PHI will make the required additional deposits totaling
+$363,437 into the accounts. As of December 31, 2023, the balance associated with the reserve
+accounts totaled $78,804; it is included in restricted cash in the accompanying consolidated
+statement of financial position and will be paid over the compliance period as these fees become
+due and payable.
+The construction financing for the RMHC-PHI expansion has various financial covenants,
+including maintaining certain debt service coverage ratios, minimum liquidity and minimum
+tangible net worth. In addition to the financial covenants, RMHC-PHI must comply with certain
+NMTC Program requirements during the seven-year compliance period. As of December
+31, 2023, RMHC-PHI was not in compliance with the debt service coverage ratio required by
+the financial covenants of the agreement and respective NMTC Program requirements. RMHCPHI received a waiver from the financial institution related to this requirement.
+It is anticipated that, after the seven-year NMTC Program compliance period expires in 2024, in
+accordance with a put and call option agreement, the Equity Investor who owns the Fund will
+exercise its put option to sell its ownership interest to RMH for a price of $1,000 or RMH will
+exercise its call option to buy the Equity Investor’s interest for a pre-determined amount or price
+equal to the fair value of the investment, and the Fund will be liquidated and its assets distributed
+to RMH. In conjunction with this event, the Equity Investor will be liquidated and its assets
+distributed to the Fund. Immediately after the exit transactions are completed, RMH will be the
+holder of PRMH, Inc.’s notes payable, and, as such, the notes payable will be eliminated in the
+consolidated financial statements, with the notes payable anticipated to be discharged shortly
+thereafter.
+As of December 31, 2023, the future maturities of the note was as follows:
+For the Year Ending
+December 31,
+2024
+2025
+2026
+2027
+2028
+Thereafter
+
+$
+
+Total
+
+110,000
+1,157,575
+1,169,685
+1,181,921
+1,194,284
+16,711,535
+
+$ 21,525,000
+
+- 18 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+5.
+
+New Markets Tax Credit Financing – Notes Receivable and Payable (continued)
+In October 2020, RMHC-PHI entered into a debt transaction to access additional funds through
+the New Markets Tax Credit Program (the NMTC Program). These funds were used for the
+equipment related to the expansion of its 3925 Chestnut Street Building Facility. The NMTC
+Program permits taxpayers to claim federal tax credits for making Qualified Equity Investments
+in a designated Community Development Entity (CDE). The CDE must use substantially all the
+of the proceeds to make Qualified Low-Income Community Investments (QLICIs). The tax
+credits are claimed over a seven-year period and equate to 39% of the QLICIs. RMHC-PHI has
+partnered with an investor, Truist Community Capital, LLC (the 2020 Equity Investor), a
+Maryland limited liability company, to utilize the the NMTC Program. The 2020 Equity Investor
+contributed $2,000,000 in equity to the RMH Philly Investment Fund, LLC (the 2020 Fund), a
+Georgia limited liability company. In conjunction with the equity investment, PRMH Equipment,
+Inc., (the leverage lender) made a loan of $1,360,400 to the 2020 Fund. In turn, the 2020 Fund
+made equity investments in one CDE which provided two loans to RMH totaling $2,000,000.
+The loans were made to RMH, which is considered a qualified active low-i/*ncome community
+business. The QLICI loans have a seven-year compliance period during which no principal can
+be repaid.
+The loan provided by PRMH Equipment, Inc. to the 2020 Fund bears interest at 1.077% and
+matures on December 1, 2043. Interest-only payments are due annually commencing on
+December 10, 2020, continuing through December 10, 2027. Commencing on December
+10, 2028, the annual payments will be composed of both principal and interest in the amount of
+$93,017. For the year ended December 31, 2023, PRMH Equipment, Inc. recognized interest
+income of $14,652 related to this note receivable, which is included in interest income from the
+note receivable in the accompanying consolidated statement of activities. There was no accrued
+interest income as of December 31, 2023.
+The loans with the CDE require annual interest-only payments at 1.00% per annum until
+December 1, 2027, starting on December 1, 2020. Thereafter, annual payments of $101,727,
+consisting of principal plus interest at 1.00% per annum, are due until December 1, 2049, if they
+are not accelerated or otherwise retired by the respective lenders at the end of the compliance
+period. For the year ended December 31, 2023, RMH incurred interest expense of $20,000.
+There was no unpaid interest expense related to these loans as of December 31, 2023.
+The loans from the CDE were as follows:
+Lender
+
+Loan
+
+Rate
+
+ST CDE LXIX QLICI, A Note
+ST CDE LXIX QLICI, B Note
+
+$ 1,000,000
+1,000,000
+
+1.00%
+1.00%
+
+Total
+
+$ 2,000,000
+
+The loans are secured by RMH’s equipment, fixtures, and the assets held in the reserve account
+related to this transaction.
+
+- 19 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+5.
+
+New Markets Tax Credit Financing – Notes Receivable and Payable (continued)
+The NMTC financing agreement required RMH to establish and fund individual fee and expense
+reserve accounts totaling $35,000 during 2020 to pay interest and certain annual service fees
+to the CDE over the seven-year NMTC compliance period. As of December 31, 2023, the
+balance associated with the reserve accounts totaled $19,264; it is included in restricted cash
+in the accompanying consolidated statement of financial position and will be paid over the
+compliance period as these fees become due and payable.
+The construction financing for the RMHC-PHI expansion has various NMTC Program
+requirements during the seven-year compliance period. The financing for the RMHC-PHI
+equipment has a financial covenant to maintain a certain debt service ratio. In addition to the
+financial covenant, RMHC-PHI must comply with certain NMTC Program requirements during
+the seven-year compliance period. As of December 31, 2023, RMHC-PHI was in compliance
+with all of its financial covenants and respective NMTC Program requirements.
+It is anticipated that, after the seven-year NMTC Program compliance period expires in
+December 2027, in accordance with a put and call option agreement, the 2020 Equity Investor
+who owns the 2020 Fund will exercise its put option to sell its ownership interest to RMHC-PHI
+for a price of $1,000 or RMHC-PHI will exercise its call option to buy the 2020 Equity Investor’s
+interest for a pre-determined amount or price equal to the fair value of the investment, and the
+2020 Fund will be liquidated and its assets distributed to RMHC-PHI. In conjunction with this
+event, the 2020 Equity Investor will be liquidated and its assets distributed to the 2020 Fund.
+Immediately after the exit transactions are completed, PRMH Equipment, Inc. will be the holder
+of RMH’s notes payable, and, as such, the notes payable will be eliminated in the consolidated
+financial statements, with the notes payable anticipated to be discharged shortly thereafter.
+As of December 31, 2023, there were no required principal payments on the notes payable over
+the following five years.
+
+6.
+
+Note Payable – Partial-Revolving Loan
+On April 24, 2017, RMHC-PHI entered into a partial-revolving loan agreement not to exceed
+$14,000,000 with Firstrust Bank to support construction costs related to the Chestnut Street
+Building expansion. The agreement bears interest at a variable rate plus 2.75%, floating daily,
+which was 8.16% as of December 31, 2023. Under the note agreement, RMHC-PHI is required
+to pay interest on outstanding balances on a monthly basis commencing on May 1, 2017. The
+loan is secured by a mortgage and security interest agreement on real properties of RMHC-PHI.
+As of December 31, 2023, the outstanding balance was $657,552. There was unpaid interest
+expense related to this partial-revolving loan of $45,945 as of December 31, 2023, which is
+included in accounts payable and accrued expenses on the accompanying consolidated
+statement of financial position. On February 29, 2024, the outstanding loan balance was fully
+paid.
+
+- 20 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+7.
+
+Line of Credit
+RMHC-PHI maintains a $2,750,000 line of credit with a bank, secured by RMHC-PHI’s
+investments. On June 15, 2023, RMHC-PHI extended the line of credit to mature on May
+23, 2024. The line of credit carries a variable interest rate, which was 7.66% as of December
+31, 2023. Under the line of credit agreement, RMHC-PHI is required to pay interest on
+outstanding balances on a monthly basis. As of December 31, 2023, the outstanding balance
+was $1,716,772. There was unpaid interest expense related to this line of credit as of December
+31, 2023 of $7,957, which is included in accounts payable and accrued expenses on the
+accompanying consolidated statement of financial position.
+
+8.
+
+EIDL Note Payable
+On June 6, 2020, RMHC-PHI entered into a Small Business Administration loan with its financial
+institution under the Economic Injury Disaster Loan program funding for the amount of $150,000,
+which came with a $10,000 grant. The loan will mature on June 6, 2050, with a fixed interest
+rate of 2.75% per annum. Monthly installment payments of principal and interest of $641 will
+commence in September 2024 and may continue through the maturity date. For the year ended
+December 31, 2023, accrued interest expense associated with the EIDL note was $350 and as
+of December 31, 2023, the EIDL note had an outstanding balance of $150,350.
+As of December 31, 2023, the future maturities of the note were as follows:
+For the Year Ending
+December 31,
+2024
+2025
+2026
+2027
+2028
+Thereafter
+Total
+
+9.
+
+$
+
+$
+
+1,078
+3,294
+3,386
+3,480
+3,576
+135,536
+150,350
+
+Net Assets
+Net Assets Without Donor Restrictions
+RMHC-PHI’s net assets without donor restrictions are composed of undesignated amounts and
+board-designated amounts for a working capital reserve. As of December 31, 2023, RMHCPHI’s net assets without donor restrictions were as follows:
+Undesignated
+Board-designated
+Total Net Assets Without Donor Restrictions
+
+- 21 -
+
+$ 46,087,990
+3,455,251
+$ 49,543,241
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+9.
+
+Net Assets (continued)
+Net Assets Without Donor Restrictions (continued)
+The board-designated net assets for a working capital reserve were instituted to provide funding
+for various strategic initiatives of RMHC-PHI and to secure RMHC-PHI’s long-term financial
+viability.
+Net Assets With Donor Restrictions
+As of December 31, 2023, net assets with donor restrictions were restricted for specific purposes
+or time periods as follows:
+Subject to expenditure for specified purpose:
+House programs
+Renovation
+Camp
+Endowment earnings available per spending policy
+Family room programs
+Scholarship
+Technology grant
+Film documentary
+
+$
+
+Total Subject to Expenditure for Specified Purpose
+
+591,938
+72,000
+62,186
+31,942
+28,311
+5,000
+1,170
+10
+792,557
+
+Subject to occurrence of specified events/passage of time:
+Time restricted
+Capital Campaign – Chestnut Street Expansion
+Total Subject to Occurrence of Specified Events/
+Passage of Time
+
+237,500
+861,010
+1,098,510
+
+Subject to be held in perpetuity:
+Endowment Fund
+
+497,500
+
+Total Net Assets With Donor Restrictions
+
+$ 2,388,567
+
+Endowment
+RMHC-PHI received a donation of shares of common stock of the McDonald’s Corporation from
+Mrs. Joan Kroc. The gift was valued at $497,500 and was intended to create an endowment
+that would provide a source of income to help with ongoing operating expenses of the Ronald
+McDonald Houses. All income from these securities is restricted until appropriated for spending
+by the Board.
+For the year ended December 31, 2023, RMHC-PHI’s endowment fund had the following activity:
+With Donor
+Restrictions
+Endowment net assets, beginning of year
+Investment return, net
+Amounts appropriated for expenditure
+
+$
+
+474,454
+74,314
+(19,326)
+
+Endowment Net Assets, End of Year
+
+$
+
+529,442
+
+- 22 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+9.
+
+Net Assets (continued)
+Endowment (continued)
+Interpretation of Relevant Law
+RMHC-PHI has interpreted relevant law in Commonwealth of Pennsylvania Act 141 as requiring
+the preservation of the fair value of the original gift as of the gift date of the donor-restricted
+endowment fund, absent explicit donor stipulations to the contrary. Pennsylvania law permits,
+but does not require, the board of directors to make an election to annually appropriate for
+expenditure a selected percentage between 2% and 7% of the fair value of the assets related to
+donor-restricted endowment funds averaged over a period of three or more preceding years,
+provided the board of directors has determined that such a percentage is consistent with the
+long-term preservation of the real value of such assets.
+RMHC-PHI approved a 7% spending policy beginning January 1, 2012, which amounted to
+$19,326 to be distributed to operations for the year ended December 31, 2023. During the year,
+the board suspended two quarters of the annual spend. The realized and unrealized gains and
+losses related to permanent endowments are restricted until spent, in accordance with
+Pennsylvania law. The endowment fund investment activity is recorded in accordance with the
+original gift agreement and RMHC-PHI’s interpretation of the Pennsylvania law.
+Funds with Deficiencies
+From time to time, the fair value of assets associated with individual donor-restricted endowment
+funds may fall below the level that the donor requires RMHC-PHI to retain as a fund of perpetual
+duration. RMHC-PHI’s policy is to continue to appropriate from such individually-deficient funds
+in accordance with its spending policy. As of December 31, 2023, there were no such
+deficiencies.
+Return Objectives and Risk Parameters
+RMHC-PHI has adopted investment and spending policies for endowment assets that attempt
+to provide a predictable stream of funding to programs supported by its endowment, while
+seeking to maintain the purchasing power of the endowment assets. Endowment assets include
+those assets of donor-restricted funds that the organization must hold in perpetuity. Under this
+policy, as approved by the Board of Directors, the endowment assets are invested in funds to
+achieve growth in principal value and income over time sufficient to preserve or increase the
+purchasing power of the funds, thus protecting the funds against inflation. Actual returns in any
+given year may vary.
+Strategies Employed for Achieving Objectives
+To satisfy its long-term return objectives, RMHC-PHI relies on a total return strategy in which
+investment returns are achieved through both capital appreciation (realized and unrealized) and
+current yield (interest and dividends). RMHC-PHI targets a diversified asset allocation which is
+reviewed as necessary by the Board of Directors.
+
+- 23 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+10.
+
+Availability and Liquidity
+RMHC-PHI regularly monitors liquidity required to meet its annual operating needs and other
+contractual commitments, while also striving to preserve the principal and return on the
+investment of its funds. RMHC-PHI’s financial assets available within one year of the
+consolidated statement of financial position date for general expenditures at December
+31, 2023, were as follows:
+Cash and cash equivalents
+Pledges and contributions receivable
+Investments
+Total Financial Assets Available Within One Year
+
+$ 1,294,090
+1,137,794
+5,397,023
+7,828,907
+
+Less:
+Amounts unavailable for general expenditures within one
+year due to donors’ restriction with purpose and time restriction
+Amounts unavailable for general expenditure as corpus of endowment
+Amounts unavailable to management without Board approval
+
+(1,891,067)
+(497,500)
+(3,455,251)
+
+Financial Assets Available to Meet
+General Expenditures Within One Year
+
+$ 1,985,089
+
+RMHC-PHI has various sources of liquidity at its disposal, including cash and cash equivalents
+and investments, which are available for general expenditures, liabilities and other obligations
+as they come due. Management is focused on sustaining the financial liquidity of RMHC-PHI
+throughout the year. This is done through monitoring and reviewing RMHC-PHI’s cash flow
+needs on a regular basis. As a result, management is aware of the cyclical nature of RMHCPHI’s cash flow related to RMHC-PHI’s various funding sources and is therefore able to ensure
+that there is cash available to meet current liquidity needs. As part of its liquidity plan, excess
+cash is invested in publicly traded investment vehicles, including mutual funds and equity
+securities, or to support organizational initiatives. RMHC-PHI has an endowment with a boardrestricted 7% spending rate, and unrestricted investments with a board-restricted 5% spending
+rate, resulting in approximately $216,940 of appropriations available within the next 12 months
+to fund operating needs. To help manage unanticipated liquidity needs, RMHC-PHI has a
+committed line of credit of $2,750,000, which is described in Note 7 above. As of December
+31, 2023, $1,025,271 of this line of credit was available to RMHC-PHI to draw upon.
+11.
+
+Transactions with Related Entities
+Ronald McDonald House Charities is a system of independent, separately registered public
+benefit organizations, referred to as “Chapters” within the global organization. RMHC-PHI is an
+independent operating Chapter within the Ronald McDonald House Charities system. Each
+Chapter is licensed by McDonald’s Corporation and Ronald McDonald House Charities, Inc. to
+use the related trademarks in conjunction with fundraising activities and the operation of its
+programs; the license agreement also sets standards of operations for programs, governance,
+finance, branding and reporting.
+
+- 24 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+11.
+
+Transactions with Related Entities (continued)
+Ronald McDonald House Charities, Inc. (RMHC Global), a separately registered nonprofit
+organization, ensures delivery of the mission across the globe. As a center of excellence, RMHC
+Global builds and sustains a robust infrastructure of support to the network of Chapters,
+including operations, licensing and compliance, finance, risk management, communications,
+marketing and development. RMHC-PHI receives a portion of net revenues from all national
+fundraising efforts facilitated by RMHC Global, as defined by the license agreement. During the
+year ended December 31, 2023, RMHC-PHI received payments of $991,793 from RMHC
+Global, of which $68,000 were in the form of grants, and the remaining $923,793 were funds
+passed through to RMHC-PHI from local McDonald stores.
+
+12.
+
+Donated Goods and Services
+Donated goods and services are recognized if the services received create or enhance longlived assets or require specialized skills, that are provided by individuals possessing those skills
+and would typically need to be purchased if not donated.
+During the year ended December 31, 2023, RMHC-PHI received donated professional services
+of $227,777 and donated food and program materials of $604,181 totaling $831,958. The
+donated professional services are recorded at the estimated fair value based on market rates
+for similar services in the United States. The donated food and program materials are recorded
+at the estimated fair value based on current market rates for similar food and program materials.
+These items are reported as donated goods and services revenue and program expenses in the
+statement of activities.
+There were no donor-imposed restrictions associated with the donated goods and services.
+
+13.
+
+Commitments, Contingencies and Risks
+Concentration of Credit Risk
+RMHC-PHI maintains its cash and cash equivalents with certain commercial financial
+institutions, which aggregate balances may exceed, at times, the Federal Deposit Insurance
+Corporation (FDIC) insured limit of $250,000 per depositor per institution. As of December
+31, 2023, RMHC-PHI had approximately $1,260,000 in cash, which exceeded the maximum
+limit insured by the FDIC by approximately $856,000. RMHC-PHI monitors the creditworthiness
+of these institutions and has not experienced any historical credit losses on its cash and cash
+equivalents.
+Investment Risk
+RMHC-PHI also invests in various investment securities that are exposed to various risks,
+including market, interest rate and credit risks. Due to the level of risk associated with certain
+investment securities, it is at least reasonably possible that changes in the values of the
+investment securities will occur in the near term and that such changes could materially affect
+the amounts reported in the consolidated financial statements.
+
+- 25 -
+
+RONALD MCDONALD HOUSE CHARITIES PHILADELPHIA REGION
+AND AFFILIATES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+For the Year Ended December 31, 2023
+_______________
+
+14.
+
+Retirement Plan
+RMHC-PHI maintains a Simplified Employee Pension Plan which covers all full-time employees.
+RMHC-PHI contributes 2% of the employee’s annual compensation. For the year ended
+December 31, 2023, contributions to the plan amounted to $64,638.
+
+15.
+
+Income Taxes
+RMHC-PHI, PRMH, Inc. and PRMH Equipment, Inc. are exempt from the payment of income
+taxes under Section 501(c)(3) of the Internal Revenue Code. As such, these organizations are
+taxed only on their net unrelated business income. No provision for income taxes has been
+made in the accompanying consolidated financial statements for the year ended December
+31, 2023, as there was no significant net unrelated business income.
+RMHC-PHI adopted the authoritative guidance relating to accounting for uncertainty in income
+taxes included in FASB Accounting Standards Codification Topic 740, Income Taxes. These
+provisions provide consistent guidance for the accounting for uncertainty in income taxes
+recognized in an entity’s consolidated financial statements and prescribe a threshold of “more
+likely than not” for recognition and derecognition of tax positions taken or expected to be taken
+in a tax return. RMHC-PHI performed an evaluation of uncertain tax positions for the year ended
+December 31, 2023, and determined that there were no matters that would require recognition
+in the consolidated financial statements or that may have any effect on RMHC-PHI’s tax-exempt
+status. As of December 31, 2023, the statute of limitations remained open with the U.S. federal
+jurisdiction or the various states and local jurisdictions in which RMHC-PHI files tax returns;
+however, there are currently no examinations pending or in progress. As of December 31, 2023,
+RMHC-PHI had no accruals for interest and/or penalties.
+
+16.
+
+Reclassification
+Certain prior year amounts have been classified to current year presentation. These
+reclassifications had no effect on net assets as previously reported.
+
+17.
+
+Subsequent Events
+In preparing the consolidated financial statements, RMHC-PHI has evaluated events and
+transactions for potential recognition or disclosure through April 30, 2024, the date the
+consolidated financial statements were available to be issued. There were no subsequent
+events other than the loan repayment disclosed in Note 6 that require recognition or disclosure
+in the consolidated financial statements.
+
+- 26 -
+
+
