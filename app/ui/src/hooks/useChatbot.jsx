@@ -1,5 +1,5 @@
 import { useState, useCallback } from 'react';
-import { getChatbotResponse } from '../lib/chatbot';
+import { getChatbotResponse } from '../api/chatbot';
 
 export default function useChatbot() {
     const [isLoading, setIsLoading] = useState(false)
