@@ -1,4 +1,5 @@
 import asyncio
+import re
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, model_validator
@@ -35,11 +36,17 @@ async def root():
     return {"message": "Hello World"}
 
 
+filtered_pattern = re.compile(r"\[chunk_\d+\]")
+
+def clean_response_text(text: str) -> str:
+    return filtered_pattern.sub("", text).strip()
+
+
 @app.post("/response")
 async def post_response(body: ChatRequest):
     # Run blocking RAG/LLM call in a thread so the event loop isn't blocked
     response_text = get_chat_response(body.prompt)
-    return {"response": response_text}
+    return {"response": clean_response_text(response_text)}
 
 
 if __name__ == "__main__":
