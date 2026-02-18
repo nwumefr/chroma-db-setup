@@ -1,0 +1,124 @@
+:root {
+  --rmhc-red: #c8102e;
+  --rmhc-red-dark: #9a0c23;
+  --rmhc-yellow: #ffc72c;
+  --rmhc-gold: #e5a00d;
+  --white: #fff;
+  --off-white: #f8f6f3;
+  --gray-100: #f5f5f5;
+  --gray-300: #ddd;
+  --gray-600: #555;
+  --gray-800: #333;
+  --black: #1a1a1a;
+  --max-width: 1200px;
+  --header-height: 72px;
+  --font-sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--gray-800);
+  background: var(--off-white);
+}
+
+a {
+  color: var(--rmhc-red);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.prose {
+  max-width: 72ch;
+}
+
+.prose h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.35rem;
+  color: var(--gray-800);
+}
+
+.prose h3 {
+  margin-top: 1.25em;
+  margin-bottom: 0.4em;
+  font-size: 1.15rem;
+}
+
+.prose p {
+  margin: 0 0 1em;
+}
+
+.prose ul {
+  margin: 0 0 1em;
+  padding-left: 1.5em;
+}
+
+.prose .lead {
+  font-size: 1.15rem;
+  color: var(--gray-600);
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.6em 1.2em;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.btn-primary {
+  background: var(--rmhc-red);
+  color: var(--white);
+}
+
+.btn-primary:hover {
+  background: var(--rmhc-red-dark);
+  color: var(--white);
+  text-decoration: none;
+}
+
+.btn-secondary {
+  background: var(--gray-600);
+  color: var(--white);
+}
+
+.btn-secondary:hover {
+  background: var(--gray-800);
+  color: var(--white);
+  text-decoration: none;
+}
+
+.card-link {
+  display: block;
+  margin-top: 0.5em;
+}
+
+.card-link + .card-link {
+  margin-top: 0.25em;
+}

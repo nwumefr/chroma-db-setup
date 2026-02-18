@@ -132,3 +132,8 @@ dmypy.json
 # VDB stuff
 .vdb/
 tmp/
+
+# Additional stuff
+node_modules/
+/.venv
+venv

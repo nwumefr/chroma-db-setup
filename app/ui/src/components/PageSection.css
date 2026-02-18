@@ -1,0 +1,95 @@
+.page-section {
+  padding: 2rem 0 3rem;
+}
+
+.page-section-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.breadcrumbs {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: var(--gray-600);
+}
+
+.breadcrumbs a {
+  color: var(--gray-600);
+}
+
+.breadcrumbs a:hover {
+  color: var(--rmhc-red);
+}
+
+.breadcrumbs .sep {
+  margin: 0 0.4em;
+  color: var(--gray-300);
+}
+
+.page-title {
+  margin: 0 0 1.25rem;
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+  font-weight: 700;
+  color: var(--gray-800);
+  line-height: 1.25;
+}
+
+.donate-options {
+  display: grid;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.donate-option {
+  padding: 1.25rem;
+  background: var(--gray-100);
+  border-radius: 8px;
+  border-left: 4px solid var(--rmhc-red);
+}
+
+.donate-option h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+}
+
+.donate-option h3 a {
+  color: var(--gray-800);
+}
+
+.donate-option h3 a:hover {
+  color: var(--rmhc-red);
+}
+
+.event-list {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.event-card {
+  padding: 1.25rem;
+  background: var(--white);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.event-card h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.15rem;
+}
+
+.event-card h3 a {
+  color: var(--gray-800);
+}
+
+.event-card h3 a:hover {
+  color: var(--rmhc-red);
+}
+
+.event-date {
+  margin: 0 0 0.5rem;
+  font-size: 0.9rem;
+  color: var(--rmhc-red);
+  font-weight: 600;
+}
