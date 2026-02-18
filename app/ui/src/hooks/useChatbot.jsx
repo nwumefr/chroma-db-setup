@@ -3,15 +3,17 @@ import { getChatbotResponse } from '../api/chatbot';
 
 export default function useChatbot() {
     const [isLoading, setIsLoading] = useState(false)
-    const [error, setError] = useState('')
+    const [error, setError] = useState(null)
     const [response, setResponse] = useState('');
     const useChatting = useCallback(async (prompt = '') => {
         setIsLoading(true)
-        setError('')
+        setError(null)
         try {
             const data = await getChatbotResponse(prompt);
             console.log("data", data)
             setResponse(data);
+            console.log("response", response)
+            return data
 
         } catch (err) {
             console.error("Unexpected error", err)

@@ -47,8 +47,8 @@ export default function Chatbot() {
     setMessages((prev) => [...prev, { role: 'user', text }]);
     setInput('');
     // Placeholder reply (could be replaced with API call)
-    await useChatting(text)
-    setMessages((prev) => [...prev, {role: 'bot', text: response}])
+    const aiResponse = await useChatting(text)
+    setMessages((prev) => [...prev, {role: 'bot', text: aiResponse}])
     /*setTimeout(() => {
       setMessages((prev) => [
         ...prev,
